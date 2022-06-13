@@ -12,6 +12,6 @@ Explored and implemented V5 of MUI by a small social media application skeleton.
 
 If you would like to contribute please raise the PR.
 
-# Reach Me :woman:
+# Reach Me :man:
 
 You can email me at email.ashishgoyal@gmail.com or reach me on twitter @ashishgoyl
